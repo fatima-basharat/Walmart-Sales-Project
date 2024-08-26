@@ -9,7 +9,7 @@ The dataset used in this project can be downloaded from Kaggle: [Walmart Sales D
 ## Data Cleaning Practice
 [R Source Code](https://github.com/fatima-basharat/Walmart-Sales_Project/blob/main/walmartsales.R)
 
-<img src="https://github.com/user-attachments/assets/3ef97db5-df50-4655-89ed-38165faecf4b" alt="image" width="50%"/>
+<img src="https://github.com/user-attachments/assets/3ef97db5-df50-4655-89ed-38165faecf4b" alt="image" width="75%"/>
 
 The dataset undergoes rigorous cleaning to ensure accurate and meaningful analysis. The following steps were taken to clean the data:
 
