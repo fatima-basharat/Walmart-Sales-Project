@@ -7,7 +7,7 @@ This project focuses on analyzing and drawing insights from a dataset containing
 The dataset used in this project can be downloaded from Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales) [accessed on 08/24/24]  
  
 ## Data Cleaning Practice
-[R Source Code]()
+[R Source Code](https://github.com/fatima-basharat/Walmart-Sales_Project/blob/main/walmartsales.R)
 
 ![image](https://github.com/user-attachments/assets/3ef97db5-df50-4655-89ed-38165faecf4b)
 
