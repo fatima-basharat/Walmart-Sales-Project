@@ -14,10 +14,10 @@ The dataset used in this project can be downloaded from Kaggle: [Walmart Sales D
 The dataset undergoes rigorous cleaning to ensure accurate and meaningful analysis. The following steps were taken to clean the data:
 
 ### Sorting:
-Data is sorted first by store number (ascending) and then by date (ascending).
+- Data is sorted first by store number (ascending) and then by date (ascending).
 
 ### Date Formatting:
-Dates are converted to the format MM-DD-YYYY.
+- Dates are converted to the format MM-DD-YYYY.
 
 ### Rounding:
 - Weekly Sales: Rounded to the nearest 2 decimal places.
@@ -27,7 +27,7 @@ Dates are converted to the format MM-DD-YYYY.
 - Unemployment: Rounded to the nearest 3 decimal places.
 
 ### Missing Data:
-Ensured that there is no missing data in the dataset.
+- Ensured that there is no missing data in the dataset.
 
 ## Business Questions and Answers:
 
