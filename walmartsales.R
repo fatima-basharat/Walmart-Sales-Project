@@ -13,7 +13,7 @@ library(lubridate)
 library(ggplot2)
 
 # Loading the data set
-df <- read_csv("/Users/fatimabasharat/downloads/walmartsales/Walmart_Sales.csv", locale = locale())
+df <- read_csv("/walmartsales/Walmart_Sales.csv")
 
 
 #TASKS 
